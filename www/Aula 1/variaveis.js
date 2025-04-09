@@ -2,7 +2,7 @@ var nome = "Lorran"
 var idade = 18
 var numero = "1"
 var cidade = "Valença"
-var bairro = "Sao francisco"
+var bairro = "..."
 var robbie = "jogar"
 
 console.log ("Meu nome é " + nome)
