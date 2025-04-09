@@ -1,8 +1,8 @@
-var nome = "Lorran"
-var idade = 18
+var nome = "Cleiton"
+var idade = 28
 var numero = "1"
 var cidade = "Valença"
-var bairro = "Passagem"
+var bairro = "Sao francisco"
 var robbie = "jogar"
 
 console.log ("Meu nome é " + nome)
