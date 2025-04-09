@@ -1,5 +1,5 @@
-var nome = "Cleiton"
-var idade = 28
+var nome = "Lorran"
+var idade = 18
 var numero = "1"
 var cidade = "Valença"
 var bairro = "Sao francisco"
